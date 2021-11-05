@@ -1,4 +1,6 @@
 # cours-deeplearning-2020
+💻[**Video (Deep Learning 2020)**](https://www.youtube.com/watch?v=tJYAnHJsChE&list=PLyA1G387fKeY8tU-OMP2MTREeaZ5_1HjB)
+
 Contenus pour la formation en ligne [Deep Learning par la pratique 2020](https://www.youtube.com/playlist?list=PLyA1G387fKeY8tU-OMP2MTREeaZ5_1HjB).
 
 Le plan de cette formation et les notebooks sont une adaptation en français du livre de **Jeremy Howard et Sylvain Gugger** [Deep Learning for Coders with fastai & PyTorch](https://github.com/fastai/fastbook).
